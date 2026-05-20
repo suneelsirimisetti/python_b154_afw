@@ -1,6 +1,5 @@
 name: Run Tests At Push
 
-
 on: [push]
 
 permissions:
